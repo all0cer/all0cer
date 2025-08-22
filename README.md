@@ -4,7 +4,11 @@
   <p><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=all0cer&layout=compact&langs_count=7&theme=tokyonight"/>
   <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=adnaolivia&theme=dark&show_icons=true"/></p> -->
 </div>
-  <br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=all0cer&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+
+
+<br>
 <div>
   <img align="center" alt="all0cer-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="all0cer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
